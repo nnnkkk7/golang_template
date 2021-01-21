@@ -1,1 +1,2 @@
 # golang_template
+新しくファイルを作成してそこにtemplateを書き込むような処理です。
